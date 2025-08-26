@@ -58,7 +58,7 @@ Server will start at: `http://127.0.0.1:8000`
 
 ---
 
-## 📬 API Endpoints
+## API Endpoints
 
 ### **Chatbot Endpoint**
 `POST /chatbot`
@@ -80,6 +80,7 @@ Server will start at: `http://127.0.0.1:8000`
 ---
 
 ## API Testing with Postman
+![Demo](https://github.com/haripatel07/dental-chatbot/blob/main/Postman-api-test.png)
 
 ---
 ## Deployment
@@ -93,6 +94,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👨Author
+## Author
 Developed by **Hari Patel**  
 GitHub: [@haripatel07](https://github.com/haripatel07)
