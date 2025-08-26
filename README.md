@@ -15,7 +15,7 @@ This API can answer common dental health questions by matching user queries to a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend**: FastAPI (Python)
 - **NLP Model**: Sentence Transformers (`all-MiniLM-L6-v2`)
 - **Deployment**: Railway
@@ -84,7 +84,7 @@ Server will start at: `http://127.0.0.1:8000`
 ---
 ## Deployment
 This project is deployed on **Railway**.  
-👉 [Live API Link](#) *(add your Railway link here)*
+[Live API Link](https://web-production-cf49.up.railway.app/chatbot) 
 
 ---
 
